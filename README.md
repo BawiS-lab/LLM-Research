@@ -3,3 +3,4 @@ This repository contains the resources and scripts used in a research study expl
 
 file.ipynb - Python scripts used to automate and analyze the vulnerability detection process. These scripts include the logic for testing ChatGPT’s performance on the dataset.
 
+all_c_cpp_release2.0.csv.zip - The dataset of vulnerable files used for testing, including information about recorded vulnerabilities for comparison.
